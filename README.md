@@ -110,3 +110,4 @@ streamlit run app.py
 
 1. Run `python server.py` to start the backend.
 2. Run `streamlit run app.py` to start the frontend (if using Streamlit UI) or access `http://localhost:8080` for the HTML UI.
+
